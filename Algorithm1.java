@@ -13,6 +13,8 @@ public class Algorithm1 {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the values of the array");
 		System.out.println("Hi am cloned project");
+		System.out.println("Hi am pulled project");
+
 
 		for (int i=0;i<student.length;i++) {
 			student[i]=sc.nextInt();
