@@ -12,7 +12,7 @@ public class Algorithm1 {
 		int[] student =new int[size];
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the values of the array");
-		System.out.println("Enter the values of the array");
+		System.out.println("Hi am cloned project");
 
 		for (int i=0;i<student.length;i++) {
 			student[i]=sc.nextInt();
